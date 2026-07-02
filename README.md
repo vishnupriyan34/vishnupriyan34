@@ -13,7 +13,7 @@
 <img src="none" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- 🎓 Final-year Information Technology student at V.S.B College of Engineering, Coimbatore.
+- 🎓 Final-year Information Technology student at V.S.B College of Engineering Technical Campus, Coimbatore.
 - 💡 Passionate about Web Development, Data Analytics, and Cloud Computing.
 - 📊 Knowledgeable in Data Analytics, with expertise in Excel, visualization, and deriving insights for business applications.
 - ☁️ Hands-on exposure to AWS services (EC2, S3, IAM, VPC) through internship experience.
