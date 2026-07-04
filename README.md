@@ -144,5 +144,65 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
 
+## 🎓 Certifications
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF41&size=22&center=true&vCenter=true&width=600&lines=My+Certifications;Continuous+Learning+%26+Growth;Exploring+Tech+Everyday..." />
+</p>
+
+- 🏅 **NPTEL Cloud Computing Certification**  
+  *Knowledge of cloud architecture, virtualization, and core service models (IaaS, PaaS, SaaS).*
+
+- 🐍 **Basics of Python – Infosys Springboard**  
+  *Strong foundation in Python programming, data types, control structures, and problem-solving.*
+
+- 🛢️ **SQL Certification – HackerRank**  
+  *Proficiency in SQL queries, joins, and database operations through hands-on coding assessments.*
+
+- 📊 **Advanced Microsoft Excel Certification – Itronix Solutions**  
+  *Expertise in pivot tables, advanced functions, and data visualization for business insights.*
+
+
+## 🏆 Achievements & Activities
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFA500&size=22&center=true&vCenter=true&width=600&lines=Achievements+Unlocked;Leadership+%26+Teamwork;Exploring+New+Horizons..." />
+</p>
+
+- 🎤 **Co-ordinator for a Technical Quiz Event** during college symposium  
+  *Demonstrated leadership, teamwork, and event management skills.*
+
+- 🎨 **UI/UX Professional Certification – Bannari Amman Institute of Technology**  
+  *Practical exposure to user interface design and user experience principles.*
+
+- 🌐 **Attended National Level Technical Symposium – Saveetha School of Engineering**  
+  *Engaged with emerging technologies and industry trends.*
+
+## 📚 Currently Learning
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF41&size=22&center=true&vCenter=true&width=600&lines=Always+Learning...;Exploring+New+Technologies...;Sharpening+My+Skills..." />
+</p>
+
+- 📈 **Data Analytics** — Learning to analyze datasets, visualize insights, and support decision-making.  
+- 🛢️ **SQL & Database Management** — Practicing query writing, joins, and efficient data storage/retrieval.  
+- 🤖 **Generative AI** — Exploring AI models that create text, images, and code for innovative solutions.  
+- 🧠 **Natural Language Processing (NLP)** — Understanding how machines process and interpret human language.  
+- 🔬 **Machine Learning** — Building models that learn patterns from data to make predictions.  
+
+---
+
+## 🤖 AI Concepts I'm Exploring
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFA500&size=22&center=true&vCenter=true&width=600&lines=AI+Concepts+In+Focus;Deep+Learning+%26+Neural+Networks;Transformers+%26+LLMs..." />
+</p>
+
+- 🧩 **Neural Networks** — Learning how interconnected layers of nodes mimic human brain functions.  
+- 🔄 **Deep Learning** — Training multi-layered networks for tasks like vision, speech, and text.  
+- 📚 **Transformers & LLMs** — Studying architectures behind modern AI like GPT and Gemini.  
+- 🌐 **Computer Vision** — Teaching machines to interpret and analyze visual information.
+  
+
 ![Personal Quote](https://quotes-github-readme.vercel.app/api?quote=Dream%20Big..!!%20Work%20Hard..!!%20Stay%20Curious..!!&author=Vishnu%20Priyan.S&type=horizontal&theme=tokyonight)
 
