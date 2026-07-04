@@ -104,6 +104,19 @@
   </a>
 </p>
 
+## 🏆 LeetCode Progress
+
+<p align="center">
+  <a href="https://leetcode.com/u/vishnupriyan_34/">
+    <img src="https://leetcard.jacoblin.cool/vishnupriyan_34?theme=dark&font=Source%20Code%20Pro&ext=heatmap" alt="LeetCode Stats Card" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFA500&size=22&center=true&vCenter=true&width=600&lines=Solving+LeetCode+Problems...;Sharpening+Problem+Solving+Skills...;Growing+Step+by+Step+Everyday..." />
+</p>
+
+
 ![Top language](https://stats.pphat.top/languages?username=vishnupriyan34)
 <br/>
 
