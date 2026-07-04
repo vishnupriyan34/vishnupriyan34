@@ -144,6 +144,24 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
 
+## 🎓 Certifications
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF41&size=22&center=true&vCenter=true&width=600&lines=My+Certifications;Continuous+Learning+Journey;Building+Strong+Foundations..." />
+</p>
+
+- 🏅 **NPTEL Cloud Computing Certification** — Knowledge of cloud architecture, virtualization, and core service models (IaaS, PaaS, SaaS).  
+  <img src="https://media.giphy.com/media/duzpaTbCUy9Vu/giphy.gif" width="60"/>  
+
+- 🐍 **Basics of Python – Infosys Springboard** — Strong foundation in Python programming, data types, control structures, and problem-solving.  
+  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="60"/>  
+
+- 🛢️ **SQL Certification – HackerRank** — Proficiency in SQL queries, joins, and database operations through hands-on coding assessments.  
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="60"/>  
+
+- 📊 **Advanced Microsoft Excel Certification – Itronix Solutions** — Expertise in pivot tables, advanced functions, and data visualization for business insights.  
+  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="60"/>  
+
 ## 📚 Currently Learning
 
 <p align="center">
