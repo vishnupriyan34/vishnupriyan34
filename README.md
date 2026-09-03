@@ -12,27 +12,40 @@
 
 <img src="none" alt="Banner" width="100%" />
 
-## 📌 About Me
-- 🎓 Final-year Information Technology student at V.S.B College of Engineering Technical Campus, Coimbatore.
-- 💡 Passionate about Web Development, Data Analytics, and Cloud Computing.
-- 📊 Knowledgeable in Data Analytics, with expertise in Excel, visualization, and deriving insights for business applications.
-- ☁️ Hands-on exposure to AWS services (EC2, S3, IAM, VPC) through internship experience.
-- 🌍 Actively exploring Generative AI and LLM-based development for innovative projects.
-- 🤝 Strong teamwork, leadership, and event coordination skills demonstrated in technical symposiums.
+📌 About Me
 
+🎓 Final-year Information Technology student at V.S.B College of Engineering Technical Campus, Coimbatore.
 
-## 🧠 My Focus Areas
-- ⚡ Python Development
-- 🛢️ SQL & Database Management
-- 📈 Data Analytics
-- 🤖 Generative AI
-- 🧠 Natural Language Processing (NLP)
-- 🔬 Machine Learning
-- 🖍️ UI/UX Design
-- 🎯 Graphic Design
+💡 Passionate about Web Development, Data Analytics, and Cloud Computing.
 
+📊 Knowledgeable in Data Analytics, with expertise in Excel, visualization, and deriving insights for business applications.
 
-## 📊 GitHub Stats & Trophies
+☁️ Hands-on exposure to AWS services (EC2, S3, IAM, VPC) through internship experience.
+
+🌍 Actively exploring Generative AI and LLM-based development for innovative projects.
+
+🤝 Strong teamwork, leadership, and event coordination skills demonstrated in technical symposiums.
+
+🧠 My Focus Areas
+
+⚡ Python Development
+
+🛢️ SQL & Database Management
+
+📈 Data Analytics
+
+🤖 Generative AI
+
+🧠 Natural Language Processing (NLP)
+
+🔬 Machine Learning
+
+🖍️ UI/UX Design
+
+🎯 Graphic Design
+
+📊 GitHub Stats & Trophies
+
 <p align="center">
   <a href="https://github.com/vishnupriyan34">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vishnupriyan34&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="vishnupriyan34's GitHub Stats" />
@@ -43,14 +56,13 @@
   <img src="https://trophy.ryglcloud.net/?username=vishnupriyan34&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="VISHNU PRIYAN.S's GitHub Trophies" />
 </p>
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=vishnupriyan34&theme=radical&radius=10" alt="vishnupriyan34's Activity Graph" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=vishnupriyan34&theme=react-dark&radius=10&hide_border=true&area=true" alt="vishnupriyan34's Activity Graph" />
 </p>
 <p align="center">
   <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
 </p>
 
-
-## 🛠️ Languages & Tools
+🛠️ Languages & Tools
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
@@ -104,7 +116,7 @@
   </a>
 </p>
 
-## 🏆 LeetCode Progress
+🏆 LeetCode Progress
 
 <p align="center">
   <a href="https://leetcode.com/u/vishnupriyan_34/">
@@ -117,10 +129,10 @@
 </p>
 
 
-![Top language](https://stats.pphat.top/languages?username=vishnupriyan34)
 <br/>
 
-## 🔗 Connect with Me
+🔗 Connect with Me
+
 <p align="center">
   <a href="www.linkedin.com/in/vishnupriyan34">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
@@ -144,63 +156,62 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
 
-## 🎓 Certifications
+🎓 Certifications
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF41&size=22&center=true&vCenter=true&width=600&lines=My+Certifications;Continuous+Learning+Journey;Building+Strong+Foundations..." />
 </p>
 
-- 🏅 **NPTEL Cloud Computing Certification** — Knowledge of cloud architecture, virtualization, and core service models (IaaS, PaaS, SaaS).  
-  <img src="https://media.giphy.com/media/duzpaTbCUy9Vu/giphy.gif" width="60"/>  
+🏅 NPTEL Cloud Computing Certification — Knowledge of cloud architecture, virtualization, and core service models (IaaS, PaaS, SaaS).
+<img src="https://media.giphy.com/media/duzpaTbCUy9Vu/giphy.gif" width="60"/>
 
-- 🐍 **Basics of Python – Infosys Springboard** — Strong foundation in Python programming, data types, control structures, and problem-solving.  
-  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="60"/>  
+🐍 Basics of Python – Infosys Springboard — Strong foundation in Python programming, data types, control structures, and problem-solving.
+<img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="60"/>
 
-- 🛢️ **SQL Certification – HackerRank** — Proficiency in SQL queries, joins, and database operations through hands-on coding assessments.  
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="60"/>  
+🛢️ SQL Certification – HackerRank — Proficiency in SQL queries, joins, and database operations through hands-on coding assessments.
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="60"/>
 
-- 📊 **Advanced Microsoft Excel Certification – Itronix Solutions** — Expertise in pivot tables, advanced functions, and data visualization for business insights.  
-  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="60"/>  
+📊 Advanced Microsoft Excel Certification – Itronix Solutions — Expertise in pivot tables, advanced functions, and data visualization for business insights.
+<img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="60"/>
 
-## 📚 Currently Learning
+📚 Currently Learning
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF41&size=22&center=true&vCenter=true&width=600&lines=Always+Learning...;Exploring+New+Technologies...;Sharpening+My+Skills..." />
 </p>
 
-- 📈 **Data Analytics** — Learning to analyze datasets, visualize insights, and support decision-making.  
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="60"/>  
+📈 Data Analytics — Learning to analyze datasets, visualize insights, and support decision-making.
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="60"/>
 
-- 🛢️ **SQL & Database Management** — Practicing query writing, joins, and efficient data storage/retrieval.  
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="60"/>  
+🛢️ SQL & Database Management — Practicing query writing, joins, and efficient data storage/retrieval.
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="60"/>
 
-- 🤖 **Generative AI** — Exploring AI models that create text, images, and code for innovative solutions.  
-  <img src="https://media.giphy.com/media/Q7b8YpI3dFzGk/giphy.gif" width="60"/>  
+🤖 Generative AI — Exploring AI models that create text, images, and code for innovative solutions.
+<img src="https://media.giphy.com/media/Q7b8YpI3dFzGk/giphy.gif" width="60"/>
 
-- 🧠 **Natural Language Processing (NLP)** — Understanding how machines process and interpret human language.  
-  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="60"/>  
+🧠 Natural Language Processing (NLP) — Understanding how machines process and interpret human language.
+<img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="60"/>
 
-- 🔬 **Machine Learning** — Building models that learn patterns from data to make predictions.  
-  <img src="https://media.giphy.com/media/LMt9638dO8dftqh2O4/giphy.gif" width="60"/>  
+🔬 Machine Learning — Building models that learn patterns from data to make predictions.
+<img src="https://media.giphy.com/media/LMt9638dO8dftqh2O4/giphy.gif" width="60"/>
 
-
-## 🤖 AI Concepts I'm Exploring
+🤖 AI Concepts I'm Exploring
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=FFA500&size=22&center=true&vCenter=true&width=600&lines=AI+Concepts+In+Focus;Deep+Learning+%26+Neural+Networks;Transformers+%26+LLMs..." />
 </p>
 
-- 🧩 **Neural Networks** — Learning how interconnected layers of nodes mimic human brain functions.  
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="60"/>  
+🧩 Neural Networks — Learning how interconnected layers of nodes mimic human brain functions.
+<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="60"/>
 
-- 🔄 **Deep Learning** — Training multi-layered networks for tasks like vision, speech, and text.  
-  <img src="https://media.giphy.com/media/duzpaTbCUy9Vu/giphy.gif" width="60"/>  
+🔄 Deep Learning — Training multi-layered networks for tasks like vision, speech, and text.
+<img src="https://media.giphy.com/media/duzpaTbCUy9Vu/giphy.gif" width="60"/>
 
-- 📚 **Transformers & LLMs** — Studying architectures behind modern AI like GPT and Gemini.  
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="60"/>  
+📚 Transformers & LLMs — Studying architectures behind modern AI like GPT and Gemini.
+<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="60"/>
 
-- 🌐 **Computer Vision** — Teaching machines to interpret and analyze visual information.  
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="60"/>  
+🌐 Computer Vision — Teaching machines to interpret and analyze visual information.
+<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="60"/>
 
 
   
