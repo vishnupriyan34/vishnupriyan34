@@ -156,64 +156,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
 
-🎓 Certifications
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF41&size=22&center=true&vCenter=true&width=600&lines=My+Certifications;Continuous+Learning+Journey;Building+Strong+Foundations..." />
-</p>
-
-🏅 NPTEL Cloud Computing Certification — Knowledge of cloud architecture, virtualization, and core service models (IaaS, PaaS, SaaS).
-<img src="https://media.giphy.com/media/duzpaTbCUy9Vu/giphy.gif" width="60"/>
-
-🐍 Basics of Python – Infosys Springboard — Strong foundation in Python programming, data types, control structures, and problem-solving.
-<img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="60"/>
-
-🛢️ SQL Certification – HackerRank — Proficiency in SQL queries, joins, and database operations through hands-on coding assessments.
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="60"/>
-
-📊 Advanced Microsoft Excel Certification – Itronix Solutions — Expertise in pivot tables, advanced functions, and data visualization for business insights.
-<img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="60"/>
-
-📚 Currently Learning
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF41&size=22&center=true&vCenter=true&width=600&lines=Always+Learning...;Exploring+New+Technologies...;Sharpening+My+Skills..." />
-</p>
-
-📈 Data Analytics — Learning to analyze datasets, visualize insights, and support decision-making.
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="60"/>
-
-🛢️ SQL & Database Management — Practicing query writing, joins, and efficient data storage/retrieval.
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="60"/>
-
-🤖 Generative AI — Exploring AI models that create text, images, and code for innovative solutions.
-<img src="https://media.giphy.com/media/Q7b8YpI3dFzGk/giphy.gif" width="60"/>
-
-🧠 Natural Language Processing (NLP) — Understanding how machines process and interpret human language.
-<img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="60"/>
-
-🔬 Machine Learning — Building models that learn patterns from data to make predictions.
-<img src="https://media.giphy.com/media/LMt9638dO8dftqh2O4/giphy.gif" width="60"/>
-
-🤖 AI Concepts I'm Exploring
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFA500&size=22&center=true&vCenter=true&width=600&lines=AI+Concepts+In+Focus;Deep+Learning+%26+Neural+Networks;Transformers+%26+LLMs..." />
-</p>
-
-🧩 Neural Networks — Learning how interconnected layers of nodes mimic human brain functions.
-<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="60"/>
-
-🔄 Deep Learning — Training multi-layered networks for tasks like vision, speech, and text.
-<img src="https://media.giphy.com/media/duzpaTbCUy9Vu/giphy.gif" width="60"/>
-
-📚 Transformers & LLMs — Studying architectures behind modern AI like GPT and Gemini.
-<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="60"/>
-
-🌐 Computer Vision — Teaching machines to interpret and analyze visual information.
-<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="60"/>
-
-
   
 
 ![Personal Quote](https://quotes-github-readme.vercel.app/api?quote=Dream%20Big..!!%20Work%20Hard..!!%20Stay%20Curious..!!&author=Vishnu%20Priyan.S&type=horizontal&theme=tokyonight)
